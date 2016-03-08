@@ -13,7 +13,7 @@
 #   lithium-snapshot-0.3.0
 #   helium-snapshot
 #   helium
-ODL_RELEASE=${ODL_RELEASE:-lithium-snapshot-0.3.3}
+ODL_RELEASE=${ODL_RELEASE:-lithium-snapshot-0.3.4}
 
 # The IP address of ODL. Set this in local.conf.
 ODL_MGR_IP=${ODL_MGR_IP:-$SERVICE_HOST}
